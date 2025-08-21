@@ -410,10 +410,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 ### Documentation
-- **Technical Docs**: [docs/technical/](docs/technical/)
-- **API Reference**: [docs/api/](docs/api/)
-- **User Guide**: [docs/user-guide/](docs/user-guide/)
-- **Deployment Guide**: [docs/deployment/](docs/deployment/)
+- **Technical Docs**: [Comprehensive Component Guide](docs/COMPREHENSIVE_COMPONENT_GUIDE.md)
+- **API Reference**: [Component Usage Examples](docs/COMPREHENSIVE_COMPONENT_GUIDE.md#usage-examples)
+- **User Guide**: [End User Guide](docs/END_USER_GUIDE.md)
+- **Deployment Guide**: [Deployment Checklist](docs/DEPLOYMENT_CHECKLIST.md)
 
 ### Community
 - **GitHub Issues**: Report bugs and request features
