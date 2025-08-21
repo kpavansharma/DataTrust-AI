@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "DataTrustAI",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "DataTrustAI",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "59.0",
+    "packageAliases": {
+        "DataTrustAI": "0Ho000000000000"
+    }
+}

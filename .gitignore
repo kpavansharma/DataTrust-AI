@@ -1,0 +1,33 @@
+# Source code (not included in public repo)
+force-app/
+backend/
+frontend/
+node_modules/
+*.log
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Build files
+dist/
+build/
+target/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
